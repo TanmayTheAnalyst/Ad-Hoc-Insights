@@ -20,7 +20,6 @@ Provide the list of markets in which customer "Atliq Exclusive" operates its bus
 ![Screenshot 2024-06-09 003151](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/c7025ac6-e2ce-4c6a-9f62-938ebdd7f367)
 
 
-
 ## Request 2
 
 What is the percentage of unique product increase in 2021 vs. 2020? The final output contains these fields,
@@ -28,11 +27,20 @@ What is the percentage of unique product increase in 2021 vs. 2020? The final ou
 - unique_products_2021
 - percentage_chg
 
+![Screenshot 2024-06-02 233058](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/e1fafab0-c403-475e-8256-6c6d33d8a716)
+
+![Screenshot 2024-06-09 195304](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/9722f95b-8e9e-49e4-a889-7c0687fc8edb)
+
+
 ## Request 3
 
 Provide a report with all the unique product counts for each segment and sort them in descending order of product counts. The final output contains 2 fields,
 - segment
 - product_count
+
+![Screenshot 2024-06-02 234348](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/f0b12882-bff1-4c0a-ab3e-dd92dc96d016)
+![Screenshot 2024-06-09 200842](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/2e8ba6f1-2f0a-4aaa-aa2c-38fc7bd15518)
+
 
 ## Request 4
 
@@ -41,6 +49,10 @@ Follow-up: Which segment had the most increase in unique products in 2021 vs 202
 - product_count_2020
 - product_count_2021
 - difference
+![Screenshot 2024-06-05 233156](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/453051b4-ca84-4087-a1a9-e8db251e756e)
+![Screenshot 2024-06-09 201526](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/d6e2986f-3547-429b-949c-a83782f41ea0)
+
+  
 
 ## Request 5
 
@@ -48,6 +60,10 @@ Get the products that have the highest and lowest manufacturing costs. The final
 - product_code
 - product
 - manufacturing_cost
+![Screenshot 2024-06-05 233510](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/b00530fb-5d8d-472c-8b35-d60f7accb952)
+![Screenshot 2024-06-15 183512](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/310a2bb8-155e-4bad-a642-e57a63e1143b)
+
+
 
 ## Request 6
 
@@ -55,6 +71,8 @@ Generate a report which contains the top 5 customers who received an average hig
 - customer_code
 - customer
 - average_discount_percentage
+
+
 
 ## Request 7
 
