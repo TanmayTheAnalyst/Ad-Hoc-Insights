@@ -15,6 +15,11 @@ Being a data anlayst I participated in SQL Challenge organazied by Tony Sharma. 
 ## Request 1
 
 Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region
+![Screenshot 2024-06-02 171656](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/de273d5f-b793-45a6-815d-c006cdbb5669)
+
+![Screenshot 2024-06-09 003151](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/c7025ac6-e2ce-4c6a-9f62-938ebdd7f367)
+
+
 
 ## Request 2
 
