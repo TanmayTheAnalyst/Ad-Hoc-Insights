@@ -71,6 +71,8 @@ Generate a report which contains the top 5 customers who received an average hig
 - customer_code
 - customer
 - average_discount_percentage
+![Screenshot 2024-06-06 000128](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/99845f43-af08-4fca-922c-92bf7db9f9f6)
+![Screenshot 2024-06-09 202920](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/20f4c408-9578-4e14-b3b2-7d042fb25e1c)
 
 
 
@@ -81,6 +83,11 @@ The final report contains these columns:
 - Month
 - Year
 - Gross sales Amount
+![Screenshot 2024-06-08 192344](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/09dc8bca-b734-4e60-a7a1-23259ad04f92)
+![Screenshot 2024-06-08 192418](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/a2ff3765-4c6e-4e06-b59f-fb391088a47a)
+![Screenshot 2024-06-16 160400](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/33c763bb-af1a-47e8-b3e9-00c0f6876c3c)
+
+
 
 ## Request 8
 
@@ -88,6 +95,10 @@ In which quarter of 2020, got the maximum total_sold_quantity? The final output 
 - total_sold_quantity,
 - Quarter
 - total_sold_quantity
+![Screenshot 2024-06-08 192520](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/ae560a09-6858-408d-bf7e-9d5cabd45e61)
+![Screenshot 2024-06-15 192134](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/6796351b-8769-453c-afd0-53698a0bec73)
+
+
 
 ## Request 9
 
@@ -95,6 +106,10 @@ Which channel helped to bring more gross sales in the fiscal year 2021 and the p
 - channel
 - gross_sales_mln
 - percentage
+![Screenshot 2024-06-08 192715](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/5bf70a0c-6372-4973-a01e-180db5a61b45)
+![Screenshot 2024-06-16 170646](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/10976474-146e-417d-b1a0-346ea434172a)
+
+
 
 ## Request 10
 
@@ -104,7 +119,8 @@ Get the Top 3 products in each division that have a high total_sold_quantity in 
 - product
 - total_sold_quantity
 - rank_order
-
+![Screenshot 2024-06-08 193005](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/afa4505f-4556-4303-bb18-d0359fa8859c)
+![Screenshot 2024-06-16 003028](https://github.com/TanmayTheAnalyst/Ad-Hoc-Insights/assets/153390240/0daa4a69-71fc-40d8-85ae-bfc0a84ebc00)
 
 
 
